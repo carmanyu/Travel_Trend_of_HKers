@@ -1,5 +1,5 @@
-# Travel_Trend(Intention)_of_HKers
-Travel Trend (Intention) of HKers between 2020 and 2022
+# Travel_Intention_of_HKers
+Travel Trend (Intention to travel) of HKers between 2020 and 2022
 
 ### Objective
 
